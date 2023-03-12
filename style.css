@@ -1,0 +1,40 @@
+.main{
+	margin: 0%;
+}
+.logo{
+	height: 200px;
+	width: 200px;
+	margin-left: 42%;
+	margin-top: -2.5%;
+	position: relative;
+	z-index: 1;
+}
+#upr-img{
+	height: 900px;
+	width: 1350px;
+	margin-top:-45%;
+	position: relative;
+	z-index: -1;
+	padding-top: 20px;
+
+}
+#lwr-img{
+	height: 900px;
+	width: 1350px;
+/*	margin-bottom:-10%;*/
+	position: relative;
+	z-index: -1;
+}
+#ul{
+	list-style: none;
+	margin-left: 2%;
+
+}
+.li{
+	display: flex;
+}
+#search{
+	border:10px,black;
+	border-radius: 15px;
+	margin-left: 250%;	
+}
